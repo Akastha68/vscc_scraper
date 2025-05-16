@@ -13,13 +13,12 @@ A Python-based tool to scrape student results from a school or college website. 
 ---
 
 ## Folder Structure
-
 ```
 vscc/
-â”œâ”€â”€ LICENSE         # License file
-â”œâ”€â”€ ct.py           # Class-specific scraper (e.g., by college code)
-â”œâ”€â”€ main.py         # Master script to run scraper with CLI/input support
-â”œâ”€â”€ simple.py       # Minimalistic or demo version of scraper
+├── LICENSE         # License file
+├── ct.py           # Class-specific scraper (e.g., by college code)
+├── main.py         # Master script to run scraper with CLI/input support
+└── simple.py       # Minimalistic or demo version of scraper
 ```
 
 ---
@@ -87,4 +86,4 @@ This tool is intended only for educational and personal use. Do not use it to ov
 
 ---
 
-Created by Akash Patel | [https://github.com/Akastha68]
+Created by [Akash Patel](https://github.com/Akastha68)
