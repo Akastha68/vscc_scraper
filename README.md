@@ -27,8 +27,8 @@ vscc/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/vscc.git
-cd vscc
+git clone https://github.com/Akastha68/vscc_scraper.git
+cd vscc_scraper
 ```
 
 ### 2. Install Dependencies
